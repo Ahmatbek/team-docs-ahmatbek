@@ -1,12 +1,14 @@
 # team-docs-ahmatbek
 # Мой DevOps проект
 Ahmatbek-Senoir DevOps engineer
+Aida-DevOps engineer
+
 
 ## Описание проекта
 Project description here
 
 ## Команда
-Team members: Ahmatbek
+Team members: Ahmatbek, Aida
 
 ## Стек технологий
 Technologies used
