@@ -1,6 +1,6 @@
 # team-docs-ahmatbek
 # Мой DevOps проект
-Ahmatbek-DevOps engineer
+Ahmatbek-Senoir DevOps engineer
 
 ## Описание проекта
 Project description here
